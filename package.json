@@ -1,0 +1,15 @@
+{
+  "name": "wayt",
+  "version": "0.1.0",
+  "repository": "joshuajaco/wayt",
+  "license": "MIT",
+  "exports": "./index.js",
+  "main": "index.js",
+  "types": "./index.d.ts",
+  "scripts": {
+    "format": "prettier -w ."
+  },
+  "devDependencies": {
+    "prettier": "^3.0.0"
+  }
+}
